@@ -80,7 +80,7 @@ patients_df.head()
 
 ```{python}
 #| label: load-data-python
-#| echo: true
+#| echo: false
 
 import pandas as pd
 
